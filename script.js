@@ -1,6 +1,7 @@
 let screen = document.querySelector(".screen");
 
 let items = document.querySelectorAll(".item");
+console.log(items);
 let itemAns = document.querySelector(".itemAns");
 let clear = document.querySelector(".clear");
 items.forEach((element) => {
